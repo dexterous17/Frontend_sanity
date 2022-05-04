@@ -3,9 +3,16 @@
   ## Frontend library
   
     + Tailwindcss
-    + React spinner loader
-    
-    
+    + Sanity/client
+    + Sanity/image-url
+    + React-dom
+    + React-google-login
+    + React-icons
+    + React-loader-spinner
+    + React-masonry-css
+    + React-router
+    + React-router-dom
+    + Uuid
     
 # This is the Frontend of Share me Social media App Screen shot
     
